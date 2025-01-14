@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Mirza Shoaib
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5-XS82MAAAAJ&hl=en&oi=sra)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5-XS82MAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mirza-Shoaib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzashoaib/)
 
@@ -12,12 +12,13 @@ With over a decade of experience spanning research and industry, I've successful
 
 ## 🧬 Research Focus
 
-- **Multi-omics Integration** • Analysis of large-scale datasets (5000+ metabolomic variables, 2500+ hyperspectral bands)
-- **Machine Learning in Biology** • Advanced algorithms for biological trait prediction and classification
-- **Novel Methods Development** • Custom computational approaches for latent trait extraction
-- **Network Biology** • Bayesian networks and correlation-based analyses for biological systems
-- **Image Analysis** • Advanced computer vision techniques for phenotyping
+- **Large-scale multi-omics data analysis and integration**
+- **Machine learning applications in biological systems**
+- **Network analysis and systems biology**
+- **Statistical modeling and validation frameworks**
+- **Image analysis**
 
+  
 ## 🛠️ Technical Stack
 ```python
 tech_stack = {
@@ -26,7 +27,7 @@ tech_stack = {
     'data_analysis': ['pandas', 'numpy', 'tidyverse', 'dplyr'],
     'visualization': ['matplotlib', 'seaborn', 'ggplot2', 'plotly'],
     'bioinformatics': ['custom pipelines', 'metabolomics analysis', 'image processing'],
-    'dev_tools': ['git', 'docker', 'jupyter', 'RStudio']
+    'dev_tools': ['git', 'jupyter', 'RStudio']
 }
 ```
 
@@ -45,9 +46,6 @@ tech_stack = {
     <a href="https://github.com/shoaibms/ART" target="_blank">
       <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
     </a>
-    <a href="https://github.com/shoaibms/ART" target="_blank">
-      <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=github&logoColor=black"/>
-    </a>
   </p>
   <p><strong>Python, scikit-learn, OpenCV</strong> - Novel computational method for extracting latent traits from plant root images</p>
 </div>
@@ -61,10 +59,6 @@ tech_stack = {
   <p>
     <a href="https://github.com/shoaibms/metabolomics" target="_blank">
       <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-    </a>
-    <a href="https://github.com/shoaibms/metabolomics" target="_blank">
-      <img src="https://img.shields.io/badge/PAPER-blue?style=for-the-badge&logo=arxiv&logoColor=black"/>
-    </a>
   </p>
   <p><strong>R, Python, networkx</strong> - Advanced network analysis for molecular response investigation</p>
 </div>
@@ -87,7 +81,7 @@ tech_stack = {
 **Metrics, Awards & Patents**
 - 📈 High-impact publications (IF: 22.5)
 - 🔑 7 Plant variety patents
-- 🏆 Multiple international awards
+- 🏆 Multiple international awards for plant varities and photography
 </td>
 </tr>
 </table>
@@ -121,7 +115,7 @@ graph LR
 contact_info = {
     'email': 'shoaibmirza2200@gmail.com',
     'linkedin': 'mirzashoaib',
-    'google_scholar': 'UbsSwLoAAAAJ'
+    'google_scholar': '5-XS82MAAAAJ'
 }
 ```
 
