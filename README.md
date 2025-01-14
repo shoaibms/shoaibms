@@ -57,7 +57,7 @@ Investigating tissue-specific molecular responses using advanced network approac
 
 - 📧 Email: shoaibmirza2200@gmail.com
 - 🔗 LinkedIn: [mirzashoaib](https://www.linkedin.com/in/mirzashoaib/)
-- 🎓 Google Scholar: [Profile](https://scholar.google.com/citations?user=UbsSwLoAAAAJ&hl=en)
+- 🎓 Google Scholar: [Profile](https://scholar.google.com/citations?user=5-XS82MAAAAJ&hl=en&oi=sra)
 
 ---
 *"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene*
