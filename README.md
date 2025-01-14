@@ -89,15 +89,15 @@ tech_stack = {
 ## 🔬 Current Work
 ```mermaid
 graph LR
-    A[Data Collection] --> B[Preprocessing]
-    B --> C[Feature Engineering]
-    C --> D[ML Analysis]
-    D --> E[Biological Insights]
+    A[Data Large-scale multi-omics data analysis and integration] --> B[Machine learning applications in biological systems]
+    B --> C[Network analysis and systems biology]
+    C --> D[Statistical modeling and validation frameworks]
+    D --> E[Image analysis]
     style A fill:#344e41,stroke:#dad7cd,color:#050505
-    style B fill:#3a5a40,stroke:#dad7cd,color:#dad7cd
-    style C fill:#588157,stroke:#dad7cd,color:#dad7cd
-    style D fill:#90a955,stroke:#dad7cd,color:#dad7cd
-    style E fill:#a3b18a,stroke:#dad7cd,color:#dad7cd
+    style B fill:#3a5a40,stroke:#dad7cd,color:#050505
+    style C fill:#588157,stroke:#dad7cd,color:#050505
+    style D fill:#90a955,stroke:#dad7cd,color:#050505
+    style E fill:#a3b18a,stroke:#dad7cd,color:#050505
 ```
 
 ## 📈 Stats & Activity
@@ -123,3 +123,4 @@ contact_info = {
 <div align="right">
 <sub><sup>🌱 Always growing, always learning</sup></sub>
 </div>
+
