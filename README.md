@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=30&pause=1000&color=2D5A27&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋+I'm+Mirza+Shoaib)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=30&pause=1000&color=2D5A27&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋+I'm+Shoaib)](https://git.io/typing-svg)
 
 <div align="center">
 
