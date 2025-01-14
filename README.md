@@ -77,9 +77,10 @@ tech_stack = {
 </table>
 
 ### 📈 Stats & Activity
+📈 Stats & Activity
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shoaibms&show_icons=true&theme=calm&bg_color=344e41&title_color=dad7cd&text_color=dad7cd&icon_color=90a955&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibms&layout=compact&theme=calm&bg_color=344e41&title_color=dad7cd&text_color=dad7cd&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shoaibms&show_icons=true&theme=calm&bg_color=344e41&title_color=dad7cd&text_color=dad7cd&icon_color=90a955&hide_border=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibms&layout=compact&theme=calm&bg_color=344e41&title_color=dad7cd&text_color=dad7cd&hide_border=true&count_private=true&langs_count=8&hide=html,css"/>
 </div>
 
 ### 🔬 Current Work
