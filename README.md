@@ -1,4 +1,3 @@
-## Hello👋
 
 # Hi there 👋 I'm Mirza Shoaib
 
