@@ -93,7 +93,7 @@ graph LR
     B --> C[Feature Engineering]
     C --> D[ML Analysis]
     D --> E[Biological Insights]
-    style A fill:#344e41,stroke:#dad7cd,color:#dad7cd
+    style A fill:#344e41,stroke:#dad7cd,color:#050505
     style B fill:#3a5a40,stroke:#dad7cd,color:#dad7cd
     style C fill:#588157,stroke:#dad7cd,color:#dad7cd
     style D fill:#90a955,stroke:#dad7cd,color:#dad7cd
