@@ -1,22 +1,24 @@
+*"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene*
+
 # Hi there 👋 I'm Mirza Shoaib
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UbsSwLoAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mirza-Shoaib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzashoaib/)
 
-A computational biologist specializing in machine learning applications and large-scale biological data analysis. Currently completing my PhD at La Trobe University in collaboration with Agriculture Victoria Research, developing innovative computational methods to analyze complex biological datasets and extract meaningful insights from multi-omics data.
+A computational biologist specializing in machine learning applications and large-scale biological data analysis. Currently completing my PhD at La Trobe University in collaboration with Agriculture Victoria Research, I develop innovative computational methods to analyze complex biological datasets and extract meaningful insights from multi-omics data.
 
-> With over a decade of experience spanning research and industry, I've successfully developed seven patented varieties and led multidisciplinary teams. My work has earned international recognition, including a product selected as Japan's Flower of the Year 2017, demonstrating my ability to translate complex research into practical solutions.
+With over a decade of experience spanning research and industry, I've successfully developed seven patented varieties and led multidisciplinary teams. My work has earned international recognition, including a product selected as Japan's Flower of the Year 2017, demonstrating my ability to translate complex research into practical solutions.
 
 ## 🧬 Research Focus
 
-- **Large-scale multi-omics data analysis and integration** • Processing and integrating datasets with 5000+ variables
-- **Machine learning applications in biological systems** • Advanced algorithms for trait prediction and classification
-- **Network analysis and systems biology** • Bayesian networks and correlation-based analyses
-- **Statistical modeling and validation frameworks** • Robust validation approaches for biological data
-- **Image analysis** • Novel methods for extracting latent traits from biological imagery
+- **Multi-omics Integration** • Analysis of large-scale datasets (5000+ metabolomic variables, 2500+ hyperspectral bands)
+- **Machine Learning in Biology** • Advanced algorithms for biological trait prediction and classification
+- **Novel Methods Development** • Custom computational approaches for latent trait extraction
+- **Network Biology** • Bayesian networks and correlation-based analyses for biological systems
+- **Image Analysis** • Advanced computer vision techniques for phenotyping
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 ```python
 tech_stack = {
     'languages': ['Python', 'R', 'LaTeX'],
@@ -28,21 +30,102 @@ tech_stack = {
 }
 ```
 
-[Rest of the sections remain the same until Stats & Activity]
+## 🚀 Featured Projects
 
-### 📈 Stats & Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibms&theme=react-dark&hide_border=true" width="100%"/>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">ART (Algorithmic Root Traits)</h3>
+<div align="center">
+  <a href="https://github.com/shoaibms/ART" target="_blank">
+    <img src="https://img.icons8.com/color/96/tree-structure.png" width="100" alt="ART Project"/>
+  </a>
+  <p>
+    <a href="https://github.com/shoaibms/ART" target="_blank">
+      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+    </a>
+    <a href="https://github.com/shoaibms/ART" target="_blank">
+      <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=github&logoColor=black"/>
+    </a>
+  </p>
+  <p><strong>Python, scikit-learn, OpenCV</strong> - Novel computational method for extracting latent traits from plant root images</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Metabolomic Network Analysis</h3>
+<div align="center">
+  <a href="https://github.com/shoaibms/metabolomics" target="_blank">
+    <img src="https://img.icons8.com/color/96/mind-map.png" width="100" alt="Network Analysis"/>
+  </a>
+  <p>
+    <a href="https://github.com/shoaibms/metabolomics" target="_blank">
+      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+    </a>
+    <a href="https://github.com/shoaibms/metabolomics" target="_blank">
+      <img src="https://img.shields.io/badge/PAPER-blue?style=for-the-badge&logo=arxiv&logoColor=black"/>
+    </a>
+  </p>
+  <p><strong>R, Python, networkx</strong> - Advanced network analysis for molecular response investigation</p>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
-<!-- Technical Proficiency -->
+## 📚 Publications & Impact
+<table>
+<tr>
+<td width="60%">
+  
+**Recent Publications**
+- [AutoML: Advanced Tool for Mining Multivariate Plant Traits](https://doi.org/10.1016/j.tplants.2023.09.008) (2023) *Trends in Plant Science*
+- [Roots Drought Adaptive Traits in Crop Improvement](https://www.mdpi.com/2223-7747/11/17/2256) (2022) *Plants*
+</td>
+<td width="40%">
+
+**Metrics, Awards & Patents**
+- 📈 High-impact publications (IF: 22.5)
+- 🔑 7 Plant variety patents
+- 🏆 Multiple international awards
+</td>
+</tr>
+</table>
+
+## 🔬 Current Work
+```mermaid
+graph LR
+    A[Data Collection] --> B[Preprocessing]
+    B --> C[Feature Engineering]
+    C --> D[ML Analysis]
+    D --> E[Biological Insights]
+    style A fill:#344e41,stroke:#dad7cd,color:#dad7cd
+    style B fill:#3a5a40,stroke:#dad7cd,color:#dad7cd
+    style C fill:#588157,stroke:#dad7cd,color:#dad7cd
+    style D fill:#90a955,stroke:#dad7cd,color:#dad7cd
+    style E fill:#a3b18a,stroke:#dad7cd,color:#dad7cd
+```
+
+## 📈 Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibms&layout=compact&theme=radical&count_private=true&langs_count=8&hide=html,css&hide_border=true" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shoaibms&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibms&layout=compact&theme=radical&langs_count=8&hide=html,css&count_private=true"/>
 </div>
 
-*"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene*
-- 🔗 LinkedIn: [mirzashoaib](https://www.linkedin.com/in/mirzashoaib/)
-- 🎓 Google Scholar: [Profile](https://scholar.google.com/citations?user=UbsSwLoAAAAJ&hl=en)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibms&theme=react-dark" width="100%"/>
+</div>
+
+## 📫 Connect
+```python
+contact_info = {
+    'email': 'shoaibmirza2200@gmail.com',
+    'linkedin': 'mirzashoaib',
+    'google_scholar': 'UbsSwLoAAAAJ'
+}
+```
 
 ---
-*"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene*
+<div align="right">
+<sub><sup>🌱 Always growing, always learning</sup></sub>
+</div>
