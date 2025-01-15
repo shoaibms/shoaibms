@@ -15,9 +15,10 @@
 
 ## 👨‍🔬 About Me
 
-A computational biologist specializing in machine learning applications and large-scale biological data analysis. Currently completing my PhD at La Trobe University in collaboration with Agriculture Victoria Research, I develop innovative computational methods to analyze complex biological datasets and extract meaningful insights from multi-omics data.
+A computational biologist specialising in machine learning applications and large-scale biological data analysis. Currently completing my PhD at La Trobe University in collaboration with Agriculture Victoria Research, I develop innovative computational methods to analyse complex biological datasets and extract meaningful insights from multi-omics data.
 
 With over a decade of experience spanning research and industry, I've successfully developed seven patented varieties and led multidisciplinary teams. My work has earned international recognition, including a product selected as Japan's Flower of the Year 2017, demonstrating my ability to translate complex research into practical solutions.
+
 
 ## 🔬 Research Focus
 
