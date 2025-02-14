@@ -105,13 +105,11 @@ tech_stack = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaibms&show_icons=true&bg_color=00000000&title_color=2D5A27&text_color=344E41&icon_color=90A955&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibms&layout=compact&bg_color=00000000&title_color=2D5A27&text_color=344E41&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shoaibms&background=00000000&ring=2D5A27&fire=90A955&currStreakNum=344E41&sideNums=344E41&currStreakLabel=2D5A27&sideLabels=2D5A27&dates=588157&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibms&show_icons=true&bg_color=00000000&title_color=2D5A27&text_color=344E41&icon_color=90A955&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibms&layout=compact&bg_color=00000000&title_color=2D5A27&text_color=344E41&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com?user=shoaibms&background=00000000&ring=2D5A27&fire=90A955&currStreakNum=344E41&sideNums=344E41&currStreakLabel=2D5A27&sideLabels=2D5A27&dates=588157&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📫 Contact
